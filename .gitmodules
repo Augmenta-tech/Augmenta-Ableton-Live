@@ -1,0 +1,9 @@
+[submodule "examples/Augmenta-Max4L-Example"]
+	path = examples/Augmenta-Max4L-Example
+	url = https://github.com/Augmenta-tech/Augmenta-Max4L-Example.git
+[submodule "examples/Augmenta-Max4L-spatializer-plugin"]
+	path = examples/Augmenta-Max4L-spatializer-plugin
+	url = https://github.com/Augmenta-tech/Augmenta-Max4L-spatializer-plugin.git
+[submodule "examples/Augmenta-scanner"]
+	path = examples/Augmenta-scanner
+	url = https://github.com/Augmenta-tech/Augmenta-scanner.git
