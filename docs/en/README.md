@@ -2,6 +2,6 @@
 
 ## Augmenta-Ableton-Live
 
-Ableton Live Augmenta Plugins.
+[Ableton Live](https://www.ableton.com/) [Augmenta](https://augmenta.tech) plugins collection.
 
-You can find all the Ableton Live examples in the **example/** folder at in the root of this repo.
+Documentation [https://docs.augmenta.tech/create-content/ableton-live](url)
